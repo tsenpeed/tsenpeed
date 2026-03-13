@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi 👋
+
+My name is Vinicius. 
+I'm an Computer Engineer student interested in Python & Data Science!
+
+
 
 <!--
 **tsenpeed/tsenpeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
