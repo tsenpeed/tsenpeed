@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius de Paulo Almeida
+# Hi, I'm Vinicius "Tsen"
 
 ## Portfolio
 
