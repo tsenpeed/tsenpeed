@@ -1,4 +1,8 @@
-# Hi, I'm Tsen
+# Hi, I'm Vinicius de Paulo Almeida
+
+## Portfolio
+
+[tsenpeed.github.io](https://tsenpeed.github.io) - My portfolio with Python, data analysis, AI, and practical analytical projects.
 
 
 I'm a Computer Engineering Student, passionate about Data, Python, Artificial Intelligence and Business Intelligence  
@@ -22,4 +26,3 @@ I'm a Computer Engineering Student, passionate about Data, Python, Artificial In
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge)
-
