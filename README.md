@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-[tsenpeed.github.io](https://tsenpeed.github.io) - My portfolio with Python, data analysis, AI, and practical analytical projects.
+[tsenpeed.github.io](https://tsenpeed.github.io) 
 
 
 I'm a Computer Engineering Student, passionate about Data, Python, Artificial Intelligence and Business Intelligence  
